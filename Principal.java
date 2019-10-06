@@ -6,7 +6,7 @@ public class Principal {
 		ABB arvore = new ABB();
 		// Inserindo os elementos da ABB a partir do arquivo
 		try {
-			FileReader file = new FileReader("src/arvore.txt");
+			FileReader file = new FileReader("arvore.txt");
 			BufferedReader br = new BufferedReader(file);
 			String linha = br.readLine();
 			while (linha != null) {
@@ -22,7 +22,7 @@ public class Principal {
 			System.err.println("Erro de abertura no arquivo");
 		}
 		try {
-			FileReader file = new FileReader("src/operacoes.txt");
+			FileReader file = new FileReader("operacoes.txt");
 			BufferedReader br = new BufferedReader(file);
 			String linha = br.readLine();
 			while (linha != null) {
