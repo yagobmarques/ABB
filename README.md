@@ -13,7 +13,9 @@ Para construir a árvore, salve no arquivo "arvore.txt" uma sequência de númer
 No arquivo "operacoes.txt" digite as operações que desejas executar, linha por linha. Caso ela possua algum argumento, digite-o logo após o comando com 01 (um) espaço.
 ### Exemplo
 IMPRIMA
+
 MEDIANA
+
 ENESIMO 10
 ### Guia das operações
 - ENESIMO N: retorna o n-ésimo elemento (contando a partir de 1) do percurso em ordem (ordem simétrica) da ABB.
