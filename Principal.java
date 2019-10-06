@@ -44,7 +44,7 @@ public class Principal {
 					System.out.println("Cheia: " + arvore.ehCheia(arvore.raiz));
 				}
 				if (metodo.equals("COMPLETA")) {
-					arvore.inserir(arvore.raiz, valor);
+				//	arvore.inserir(arvore.raiz, valor);
 				}
 				if (metodo.equals("BUSCAR")) {
 					arvore.buscar(valor, arvore.raiz);
