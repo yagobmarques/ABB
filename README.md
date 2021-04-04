@@ -1,5 +1,5 @@
 # ABB
-Implementação de uma Árvore Binária de Busca em java com alguns métodos interessantes: n-ésimo elemento, posição de um elemento, mediana da ABB, verificar se ela é cheia, e uma String pela sequencia de visitação por nível.
+Implementação de uma Árvore Binária de Busca em java com alguns métodos interessantes: encontrar o n-ésimo elemento, achar aposição de um elemento, obter a mediana da ABB, verificar se ela é cheia, e gerar uma String pela sequencia de visitação por nível.
 ## Pré-requisitos
 Caso você não tenha o java instalado no seu computador, digite o comando no terminal ```sudo apt-get install openjdk-7-jdk```.
 Para verificar se você já possui, basta digitar ```java -version``` 
